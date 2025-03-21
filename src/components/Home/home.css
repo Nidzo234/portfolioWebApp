@@ -1,0 +1,14 @@
+.home-section {
+    background: #f8f9fa;
+    min-height: 100vh;
+  }
+  
+  .home-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .home-section p {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }

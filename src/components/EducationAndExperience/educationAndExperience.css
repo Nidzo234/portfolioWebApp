@@ -1,0 +1,31 @@
+.edu-exp-section {
+    background: white; 
+  }
+  
+  .edu-exp-section h2 {
+    /* font-size: 2rem; */
+    margin-bottom: 0.5rem;
+  }
+  
+  .edu-exp-item {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    transition: transform 0.3s ease-in-out;
+    min-height: 170px;
+  }
+  
+  .edu-exp-item:hover {
+    transform: translateY(-3px);
+  }
+  
+  .edu-exp-item h5 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .edu-exp-item p {
+    margin: 0;
+  }
